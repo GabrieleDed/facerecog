@@ -19,7 +19,7 @@ namespace FaceTutorial
     {
         // Replace <SubscriptionKey> with your valid subscription key.
         // For example, subscriptionKey = "0123456789abcdef0123456789ABCDEF"
-        private const string subscriptionKey = "b461179d388d44b9bdc3e4ab2824c8c5";
+        private const string subscriptionKey = "de017f889c2e4b229ba4f4616d34006a";
 
         // Replace or verify the region.
         //
